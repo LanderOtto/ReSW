@@ -1,0 +1,6 @@
+C_HIGH = "#2ecc71"
+C_MID = "#f39c12"
+C_LOW = "#e74c3c"
+C_DARK = "#8b0000"
+C_EXACT = "#3498db"
+C_DERIV = "#9b59b6"

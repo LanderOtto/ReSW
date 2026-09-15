@@ -1,0 +1,29 @@
+python_path: 
+  class: Directory
+  path: applications
+
+max_pipelines: 500
+
+# filter_keyword: rnaseq
+
+# profile: test_full
+profile: test
+
+nxf_home: /home/alberto/.nextflow
+
+syntax_parser: auto
+
+generate_png: true
+include_archived: true
+include_unreleased: true
+
+# Required to parse Nextflow workflows developed before v22.05
+java17_home: /usr/lib/jvm/java-17-openjdk-amd64/bin/java
+
+cores: 8
+
+# plot_font_file:
+#   class: File 
+#   path: /home/alberto/.local/share/fonts/Raleway/static/Raleway-Bold.ttf
+
+plot_font_file: null
